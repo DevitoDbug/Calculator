@@ -11,4 +11,4 @@ A calculator that does simple arithmetics that include2️:
 * HTML
 
 ## Screenshot
-`![Screenshot](###)`
+![Screenshot](https://github.com/DevitoDbug/Calculator/blob/master/screenshots/screenshot-calc.jpg?raw=true)
